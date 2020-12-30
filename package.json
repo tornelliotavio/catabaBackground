@@ -1,0 +1,24 @@
+{
+  "name": "catabaBackground",
+  "version": "1.0.0",
+  "description": "Figuring how the cataba shop item backgrond works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tornelliotavio/catabaBackground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tornelliotavio/catabaBackground/issues"
+  },
+  "homepage": "https://github.com/tornelliotavio/catabaBackground#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fs": "0.0.1-security"
+  }
+}

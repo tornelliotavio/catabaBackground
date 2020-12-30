@@ -1,0 +1,185 @@
+[
+  {
+    "export_type": "MaterialInstanceConstant",
+    "Parent": [
+      "MI_CID_221_M_Clown",
+      "/Game/Catalog/MI_OfferImages/MI_CID_221_M_Clown"
+    ],
+    "ScalarParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "ZoomImage_Percent",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 40.0,
+        "ExpressionGUID": "0892272f4769109f7b277a8f2a4cdca2"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "RefractionDepthBias",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": 0.0,
+        "ExpressionGUID": "00000000000000000000000000000000"
+      }
+    ],
+    "VectorParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "Background_Color_A",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "r": 0.109589,
+          "g": 0.0,
+          "b": 0.302083,
+          "a": 1.0
+        },
+        "ExpressionGUID": "22358fa24e9bc1a6282954ac6debc5ca"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "Background_Color_B",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "r": 0.505208,
+          "g": 0.324612,
+          "b": 0.012674,
+          "a": 1.0
+        },
+        "ExpressionGUID": "b80e70cd429f35208c7d1b9c569dd8ad"
+      },
+      {
+        "ParameterInfo": {
+          "Name": "FallOff_Color",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": {
+          "r": 0.432292,
+          "g": 0.212464,
+          "b": 0.04712,
+          "a": 1.0
+        },
+        "ExpressionGUID": "f7029d0f408ae619939396b5c5b0690e"
+      }
+    ],
+    "TextureParameterValues": [
+      {
+        "ParameterInfo": {
+          "Name": "OfferImage",
+          "Association": "EMaterialParameterAssociation::GlobalParameter",
+          "Index": -1
+        },
+        "ParameterValue": [
+          "T-AthenaSoldiers-CID-220-AthenaCommando-F-Clown_01",
+          "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-220-AthenaCommando-F-Clown_01"
+        ],
+        "ExpressionGUID": "3346b078413d256611214d8c43752852"
+      }
+    ],
+    "BasePropertyOverrides": {
+      "BlendMode": "EBlendMode::BLEND_Translucent",
+      "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+      "OpacityMaskClipValue": 0.3333
+    },
+    "CachedReferencedTextures": [
+      {
+        "export": 0
+      },
+      [
+        "T-AthenaSoldiers-CID-655-Athena-Commando-F-Barefoot",
+        "/Game/UI/Foundation/Textures/BattleRoyale/FeaturedItems/Outfit/T-AthenaSoldiers-CID-655-Athena-Commando-F-Barefoot"
+      ],
+      [
+        "BlendFunc_DefBase",
+        "/Engine/EngineMaterials/BlendFunc_DefBase"
+      ],
+      [
+        "BlendFunc_DefBlend",
+        "/Engine/EngineMaterials/BlendFunc_DefBlend"
+      ],
+      [
+        "T_LockDeviceRandomDots",
+        "/Game/Creative/Devices/Lock_and_Key/Textures/T_LockDeviceRandomDots"
+      ],
+      [
+        "T_Ui_LavaSeries_Bg",
+        "/Game/Athena/UI/Series/Art/DCU-Series/T_Ui_LavaSeries_Bg"
+      ],
+      [
+        "LowResBlurredNoise",
+        "/Game/VisualThreatManager/StormVisuals/Test/SpawnParticles/Streamers/LowResBlurredNoise"
+      ],
+      [
+        "T_UI_Ice_Noise",
+        "/Game/Athena/HUD/LTM/Mash/Materials/T_UI_Ice_Noise"
+      ],
+      [
+        "T_Marvel_Series",
+        "/Game/Athena/UI/Frontend/CosmeticItemCard/Textures/T_Marvel_Series"
+      ],
+      [
+        "T-Cube-Background",
+        "/Game/Athena/UI/Series/Art/DCU-Series/T-Cube-Background"
+      ],
+      [
+        "T_GlyphPattern",
+        "/Game/UI/Foundation/Textures/Pattern/T_GlyphPattern"
+      ],
+      [
+        "T_CubePattern",
+        "/Game/UI/Foundation/Textures/Pattern/T_CubePattern"
+      ],
+      [
+        "T_ElectricNoise",
+        "/Game/Characters/Player/Male/Medium/Bodies/M_MED_SRDrift/Textures/T_ElectricNoise"
+      ],
+      [
+        "T_Inky_Smoke_Tile",
+        "/Game/Athena/Effects/Textures/Tile/Noise/T_Inky_Smoke_Tile"
+      ],
+      [
+        "T_Smoke_FL_01",
+        "/Game/Effects/Fort_Effects/Gameplay/SmokeDustExplosions/Textures/T_Smoke_FL_01"
+      ],
+      [
+        "LowResBlurredNoise",
+        "/Game/Effects/Fort_Effects/Textures/Tile/LowResBlurredNoise"
+      ],
+      [
+        "T_Metal_Noise",
+        "/Game/Athena/Environments/Cattus/Textures/T_Metal_Noise"
+      ],
+      [
+        "T_Pattern_Noise_M",
+        "/Game/Athena/UI/Frontend/CosmeticItemCard/Textures/T_Pattern_Noise_M"
+      ],
+      [
+        "T-SlurpLegends",
+        "/Game/Athena/UI/Series/Art/T-SlurpLegends"
+      ],
+      [
+        "T_Ui_ColumbusSeries_512",
+        "/Game/Athena/UI/Series/Art/DCU-Series/T_Ui_ColumbusSeries_512"
+      ],
+      [
+        "T-TriangleGrid",
+        "/Game/Athena/UI/Frontend/ActivityBrowser/Art/T-TriangleGrid"
+      ],
+      [
+        "CircuitBoardSeries",
+        "/Game/Athena/UI/Frontend/CosmeticItemCard/Textures/CircuitBoardSeries"
+      ],
+      [
+        "SeriesGradient",
+        "/Game/Athena/UI/Frontend/CosmeticItemCard/Textures/SeriesGradient"
+      ]
+    ]
+  }
+]
